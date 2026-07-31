@@ -14,11 +14,11 @@ This project analyzes customs traffic across Saudi land ports and provides an AI
 
 ### AI Assistant
 
-![AI Assistant](images/ai-assistant.png)
+![AI Assistant](ai-assistant.png)
 
 ### Traffic Forecast
 
-![Traffic Forecast](images/traffic-forecast.png)
+![Traffic Forecast](traffic-forecast.png)
 
 ## Technologies
 
