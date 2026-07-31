@@ -8,7 +8,6 @@ This project analyzes customs traffic across Saudi land ports and provides an AI
 - Traffic comparison between ports
 - Anomaly detection
 - 2026 daily and monthly forecasting
-- Interactive Streamlit dashboard
 
 ## Screenshots
 
