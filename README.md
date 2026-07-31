@@ -1,0 +1,25 @@
+# Saudi Customs Traffic AI Solution
+
+This project analyzes customs traffic across Saudi land ports and provides an AI assistant and a 2026 traffic forecast.
+
+## Main Features
+
+- AI assistant for Arabic and English questions
+- Traffic comparison between ports
+- Anomaly detection
+- 2026 daily and monthly forecasting
+- Interactive Streamlit dashboard
+
+## Screenshots
+
+### AI Assistant
+
+![AI Assistant](images/ai-assistant.png)
+
+### Traffic Forecast
+
+![Traffic Forecast](images/traffic-forecast.png)
+
+## Technologies
+
+Python, Pandas, Plotly, Prophet, FAISS, LangChain, Gemini, and Streamlit.
